@@ -1,0 +1,10 @@
+C:\App mekking\Akva20150407 - Funker 2015.04.10\Akva20150407\obj\Debug\assemblies\Akva20150407.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.10\Akva20150407\obj\Debug\assemblies\Mono.Android.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.10\Akva20150407\obj\Debug\assemblies\mscorlib.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.10\Akva20150407\obj\Debug\assemblies\System.Core.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.10\Akva20150407\obj\Debug\assemblies\System.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.10\Akva20150407\obj\Debug\assemblies\System.Xml.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.10\Akva20150407\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.10\Akva20150407\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.10\Akva20150407\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\App mekking\Akva20150407 - Funker 2015.04.10\Akva20150407\obj\Debug\assemblies\System.ServiceModel.Internals.dll
